@@ -1,6 +1,8 @@
 # Blynk LED Control
 This project demonstrates how to control an LED using the Blynk IoT web dashboard.
 
+## Programming Language - Embedded C
+
 ## Features
 - Control an LED remotely via the Blynk IoT platform.
 - Wokwi simulation id used for testing without hardware.
