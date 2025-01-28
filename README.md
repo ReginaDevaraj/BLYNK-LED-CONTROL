@@ -27,15 +27,13 @@ This project demonstrates how to control an LED using the Blynk IoT web dashboar
 ## Screenshots
 
 ### 1. Wokwi Simulation
-![Blynk Dashboard_SWITCH ON](wokwi_simulation.png)
+![Blynk Dashboard_SWITCH ON]()
 
 ### 2. Blynk Dashboard
-![Wokwi_Simulation_LED ON](![image](https://github.com/user-attachments/assets/5823b765-5b96-480d-ad93-0bf100cfaacb)
-)
-)
+![Wokwi_Simulation_LED ON](![LED ON](https://github.com/user-attachments/assets/f912d208-c66e-4591-8c86-9c7e6fb11d2b)
 
 ### 3. LED On State
-![Blynk Dashboard_SWITCH OFF](led_on.png)
+![Blynk Dashboard_SWITCH OFF](![LED ON](https://github.com/user-attachments/assets/f9c04de6-b949-4393-8ece-c43c75ac62d3)
 
 ### 4. LED Off State
 ![Wokwi_Simulation_LED OFF](led_off.png)
